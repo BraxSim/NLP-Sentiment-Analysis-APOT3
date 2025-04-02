@@ -2,7 +2,7 @@ NLP Sentiment Analysis
 
 Overview
 
-This project is an open-source NLP-based sentiment analysis tool that analyzes user reviews and social media comments. The system includes a backend API for text analysis and a frontend website for user interaction.
+This project is an open-source NLP-based sentiment analysis tool that analyzes user reviews and social media comments. The system includes a backend API for text analysis and a frontend website for user interaction.And this is the edition 3.0.
 
 Features
 
