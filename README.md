@@ -30,13 +30,10 @@ NLP-Sentiment-Analysis/
 │── .gitignore          # Ignore unnecessary files
 
 Installation
-
 Prerequisites
-
 Python 3.8+
 
 Git
-
 Virtual environment (optional but recommended)
 
 Setup
@@ -48,15 +45,12 @@ pip install -r requirements.txt
 Usage
 
 Run API Server
-
 python src/api.py
 
 Train Model
-
 python src/train.py
 
 Predict Sentiment
-
 python src/predict.py --text "I love this product!"
 
 References
